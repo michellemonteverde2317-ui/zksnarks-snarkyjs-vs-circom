@@ -1,4 +1,4 @@
-# Comparing zk-SNARK Snarkyjs with "Circom, Snarkjs & Solidity"
+..# Comparing zk-SNARK Snarkyjs with "Circom, Snarkjs & Solidity"
 
 In this tutorial, we will explore the implementation differences between zk-SNARKs in SnarkyJS and Solidity using Circom, SnarkJS, and Solidity.
 
